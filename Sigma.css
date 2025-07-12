@@ -1,0 +1,28 @@
+.divbox{
+   background-color: aqua; 
+}
+
+.divbox2{
+   background-color: lightsalmon; 
+}
+.divbox3{
+   background-color: rgb(29, 107, 155); 
+}
+
+.divbox, .divbox2, .divbox3{
+    height: 30px;
+    width: 30px;
+    margin: 10px;
+}
+
+.P1, .P2{
+    background-color: black;
+    width: 200px;
+}
+
+.P1{
+    color: yellow; 
+}
+.P2{
+    color: yellowgreen;
+}
